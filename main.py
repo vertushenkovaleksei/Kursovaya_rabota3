@@ -1,6 +1,6 @@
 from utils.utils import load_operations, get_new_data, filtered_data
 
-json_file = '../operations.json'
+json_file = 'operations.json'
 
 
 def main():
